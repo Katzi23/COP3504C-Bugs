@@ -17,3 +17,13 @@ the box circling the location of the error doesn't circle all of it
 Shift it to the right and enlarge it if necessary
 
 ## Name: Isabella Katz
+
+# Slide Number: 5
+
+## Description 
+There is overlapping text and text leaving the control box
+
+## Possible Fix
+Reposition the different elements and crop the line indicator so that everything fits together
+
+## Name: Isabella Katz
