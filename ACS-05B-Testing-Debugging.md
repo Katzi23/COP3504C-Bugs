@@ -18,7 +18,7 @@ Shift it to the right and enlarge it if necessary
 
 ## Name: Isabella Katz
 
-# Slide Number: 5
+# Slide Number: 5, 6, 7, 8, 9
 
 ## Description 
 There is overlapping text and text leaving the control box
