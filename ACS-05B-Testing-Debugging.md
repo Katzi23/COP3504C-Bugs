@@ -27,3 +27,13 @@ There is overlapping text and text leaving the control box
 Reposition the different elements and crop the line indicator so that everything fits together
 
 ## Name: Isabella Katz
+
+# Slide Number: 10
+
+## Description 
+The variable watch arrow goes through stack trace box
+
+## Possible Fix
+reshape and reposition the arrow as needed to make it bend around the stack trace box instead
+
+## Name: Isabella Katz
